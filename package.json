@@ -1,0 +1,25 @@
+{
+  "name": "pixi-spine-clipping-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pixi/spine-pixi": "^2.0.2",
+    "@tweakpane/core": "^2.0.4",
+    "pixi.js": "^8.2.1",
+    "tweakpane": "^4.0.4"
+  },
+  "devDependencies": {
+    "@types/pixi.js": "^5.0.0",
+    "typescript": "^5.5.3",
+    "vite": "^5.3.3"
+  }
+}
